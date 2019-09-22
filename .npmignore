@@ -1,0 +1,10 @@
+.DS_Store
+.nyc_output
+.vscode
+coverage/
+node_modules/
+src/
+test/
+*.yml
+tsconfig.json
+tsconfig.eslint.json
